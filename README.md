@@ -1,14 +1,20 @@
+# Amazon Clone Web App
+
+# Live Demo
+Visit live demo at https://ecom-website-19e72.web.app
 
 After downloading project - open vs code create new terminal or powershell
 
-To download required node modules run command below
+### Install Dependencies
 
-###npm install
+```sh
+$ npm install 
+```
 
-To run the project
+### Build and run the project
 
-###npm start 
+```sh
+$ npm start
+```
 
 Done
-
-
